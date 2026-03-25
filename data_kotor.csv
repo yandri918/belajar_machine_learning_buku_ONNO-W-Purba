@@ -1,0 +1,12 @@
+id,nama,kota,umur,pengeluaran,kategori_member 
+1,Andi,Jakarta,20,350000,Silver 
+2,Budi,Bandung,21,420000,Gold 
+3,Citra,Depok,,390000,Silver 
+4,Dina,Jakarta,22,1500000,Platinum 
+5,Eka,Bandung,20,410000,Gold 
+5,Eka,Bandung,20,410000,Gold 
+6,Fajar,Depok,dua puluh tiga,380000,Silver 
+7,Gina,Jakarta,24,,Gold 
+8,Hadi,Surabaya,23,365000,Silver 
+9,Ika,Jakarta,22,9999999,Platinum 
+10,Joko,,21,405000,Gold 

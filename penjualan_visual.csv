@@ -1,0 +1,13 @@
+bulan,penjualan,biaya,produk_terjual,kategori,iklan 
+Jan,120,80,30,A,10 
+Feb,135,90,34,A,12 
+Mar,128,85,31,B,11 
+Apr,150,95,36,B,14
+Mei,170,110,40,A,16 
+Jun,165,108,39,C,15 
+Jul,180,120,43,C,18 
+Agu,175,118,42,B,17 
+Sep,160,105,38,A,14 
+Okt,190,125,45,C,19 
+Nov,200,130,47,B,20 
+Des,210,138,50,A,22 
