@@ -1,0 +1,26 @@
+id,nama,jam_belajar,kehadiran,tugas,nilai,kota 
+1,Andi,6,82,78,80,Jakarta 
+2,Budi,7,85,80,84,Bandung 
+3,Citra,8,88,84,89,Depok 
+4,Dina, 5,79,74,76,Jakarta 
+5,Eka,9,90,88,92,Bandung 
+6,Fajar,10,94,91,95,Depok 
+7,Gina,4,75,70,72,Jakarta 
+8,Hadi,7, 86,81,85,Surabaya 
+9,Ika,8,89,86,90,Jakarta 
+10,Joko,5,78,73,75,Bandung 
+11,Kiki,6,83,79,81,Depok 
+12,Lina,11,96,94,98,Jakarta 
+13,Mira,6,81,77,79,Bandung 
+14,Nanda,7,84,80,83, 
+15,Oki,3,72,68,69,Depok 
+16,Prita,9,91,89,93,Jakarta 
+17,Qori,6,82,78,80,Jakarta 
+17,Qori,6,82,78,80,Jakarta 
+18,Raka,10,93,90,96,Bandung 
+19,Sinta,8,87,85,88,Surabaya 
+20,Tono,4,74,69,71,Jakarta 
+21,Uli,dua belas,97,95,99,Depok 
+22,Vina,7,,82,86,Bandung 
+23,Wawan,8 ,8 8,,87,Jakarta 
+24,Xena,12,98,96,150,Depok
